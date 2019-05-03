@@ -1,2 +1,5 @@
 #Ignore folder named '.vscode'
 .ipynb_checkpoints/
+
+#Ignore .DS _Store
+.DS_Store
