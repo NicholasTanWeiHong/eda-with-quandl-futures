@@ -7,5 +7,4 @@ This is a Jupyter Notebook to generate visualisations and interpretations of com
 * Implementing some inferential analyses with the scikit-learn library
 * Adding a section on crack spreads (E.g. Brent-RBOB Gasoline, Brent-Fuel Oil, Brent-Gasoil Spreads)
 * Implementing technical indicators for each spreads (E.g. RSI, MACD, Bollinger Bands)
-* Integrating logistical cost data (E.g. Spot/Time Charter Rates from Rotterdam to Singapore)
-* Developing the project in Dash to generate live graphs for each spread identified
+* Developing the project in Dash to generate live graphs for each spread under analysis
