@@ -1,4 +1,4 @@
-# eda-quandl-futures-data
+# Exploratory Data Analysis - Quandl WIKI Continuous Futures
 This is a Jupyter Notebook to generate visualisations and interpretations of commodity data sourced from the [Quandl Wiki Continuous Futures API](https://www.quandl.com/data/CHRIS-Wiki-Continuous-Futures).
 
 ![App Screenshot](https://github.com/NicholasTanWeiHong/eda-quandl-futures/blob/master/images/calendar-spreads.png "App Screenshot")
