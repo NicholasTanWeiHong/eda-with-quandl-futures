@@ -5,9 +5,9 @@ The following is a project (implemented in a Jupyter Notebook environment) which
 
 ## Description of Project
 
-This project leverages on the Quandl API for Continuous Futures to import, manipulate and analyse commodity-focused data series. On the basis of these manipulations, I make simple conjectures and hypotheses about the state of specific energy markets (such as Brent Crude Oil) and run inferentail analyses with fundamental data from [Investing.com](https://www.investing.com/).
+This project leverages on the Quandl API for Continuous Futures to import, manipulate and analyse commodity-focused data series. On the basis of these manipulations, I make simple conjectures about the state of specific energy markets (such as Brent Crude Oil) and run basic inferential analyses with fundamental data from [Investing.com](https://www.investing.com/).
 
-On further inspection, there appears to be a strong basis for the development of this framework in Dash for live charting and analysis. Future plans will mostly involve the implementation of these same concepts in a Dash App environment.
+On further inspection, there appears to be a strong basis for the development of this framework in [Dash](https://github.com/plotly/dash) for live charting and analysis. Future plans will mostly involve the implementation of these same concepts in a Dash App environment.
 
 ## Future Plans
 * Adding a section on crack spreads (E.g. Brent-RBOB Gasoline, Brent-Fuel Oil, Brent-Gasoil Spreads)
